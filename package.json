@@ -1,0 +1,12 @@
+{
+  "name": "regresssion-tool",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "dependencies": {
+    "fs-extra": "5.0.0",
+    "git-branch": "2.0.1",
+    "puppeteer": "1.2.0",
+    "resemblejs": "2.10.0"
+  }
+}
